@@ -1,0 +1,7 @@
+transformers==4.26.0
+datasets==2.6.1
+torch==1.12.1
+nltk==3.7
+spacy==3.2.4
+tkinter==8.6
+filedialog==1.0
